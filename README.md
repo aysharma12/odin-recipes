@@ -1,0 +1,1 @@
+This is a recipe webiste, guided by The Odin Project, it will be bear minimum at first, but will be styled with CSS is the future.
